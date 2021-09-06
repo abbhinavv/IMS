@@ -1,4 +1,5 @@
-
+# IMS
+# Inventory Management System For Elite Techno Groups Internship
 
 This is a basic backend of inventory management system for a grocerry store using python for file handling. It includes following functionalities:
 
